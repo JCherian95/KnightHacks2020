@@ -1,10 +1,8 @@
-# KnightHacks2020
+# League of Robots
 
-**Game_Name**
+**Knight Hacks 2020**
 
-*Tag Line*
-
-Welcome to the new **Knight Hacks 2020**! An effort to make team building easier.
+*Virtual Hack-a-thon*
 
 ---
 
