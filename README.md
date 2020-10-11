@@ -2,33 +2,19 @@
 
 **Knight Hacks 2020**
 
-*Virtual Hack-a-thon*
-
----
-
-## FAQ
-	
-**Question 1**
-
-*Answer 1*
-	
-**Question 2**
-
-*Answer 2*
-
 ---
 
 ## Cloning the repository
 
 If you have a high-bandwidth connection, I recommend starting with a fresh clone of the repo.
 	
-	git clone <add_git_link>
+	git clone git@github.com:JCherian95/League-of-Robots.git
 
 **OR**
 
 Use these steps to clone from GitHub for using the repository command-line free. Cloning allows you to work on your files locally.
 
-1. Steps
+	gh repo clone JCherian95/League-of-Robots
 
 ---
 
@@ -48,3 +34,15 @@ Example:
 *Please run your changes before commiting to BitBucket. The test looks for things that may cause issues with the site and tries to keep our content consistent. It's part of the deployment process, so BitBucket will fail if there are any errors!*
 
 **To Run:**
+
+---
+
+## FAQ
+	
+**Question 1**
+
+*Answer 1*
+	
+**Question 2**
+
+*Answer 2*
